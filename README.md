@@ -1,4 +1,4 @@
-# SC Music Churn Prediction
+# Subscription Churn Prediction
 
 ## Executive Summary
 This project develops a predictive model to identify SC Music customers at high risk of canceling their subscriptions, using three months of subscription and listening history data. By applying supervised learning techniques, including logistic regression and decision trees, the analysis uncovers key drivers of churn such as discount usage and music genre preferences. The final model achieves 85% accuracy in predicting cancellations, enabling targeted retention strategies that could reduce churn by up to 20% and increase customer lifetime value.
