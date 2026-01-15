@@ -28,7 +28,7 @@ A supervised binary classification approach was followed:
 
 Performance was evaluated using accuracy, precision (0.82 for churn class), recall (0.78), and 5-fold cross-validation to ensure generalization.
 
-## Skills Demonstrated
+## Skills
 - **Technical / Programming**  
   Pandas data wrangling · Multi-sheet Excel reading with openpyxl · Seaborn & Matplotlib visualization · Jupyter Notebook workflow
 
@@ -85,4 +85,4 @@ Customers with >60% pop music listening showed ~58% higher churn probability, li
 - Deploy model as API for CRM integration  
 - Run controlled experiments on top 2–3 recommendations to measure actual churn reduction & revenue impact
 
-## Project Structure
+
